@@ -37,7 +37,7 @@ The project also demonstrates production-ready features including:
 
 ---
 
-# 🏦 Business Problem
+#  Business Problem
 
 Financial institutions receive thousands of loan applications every day.
 
@@ -102,7 +102,7 @@ architecture/Medallion_Architecture.png
 
 ---
 
-# ⭐ Star Schema
+#  Star Schema
 
 ```
 architecture/Star_Schema.png
@@ -118,7 +118,7 @@ architecture/ETL_Flow.png
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Layer | Technology |
 |---------|------------|
@@ -138,7 +138,7 @@ architecture/ETL_Flow.png
 
 ---
 
-# 📂 Source Dataset
+#  Source Dataset
 
 The project uses five source datasets.
 
@@ -156,7 +156,7 @@ economic_indicators.csv
 
 ---
 
-# 📁 ADLS Folder Structure
+#  ADLS Folder Structure
 
 ```
 ADLS
@@ -254,7 +254,7 @@ Gold
 
 ---
 
-# 🥉 Bronze Layer
+#  Bronze Layer
 
 ### Catalog
 
@@ -297,7 +297,7 @@ Bronze_Error_Log
 
 ---
 
-# 🥈 Silver Layer
+#  Silver Layer
 
 ### Catalog
 
@@ -341,7 +341,7 @@ Silver_Data_Quality
 
 ---
 
-# 🥇 Gold Layer
+#  Gold Layer
 
 ### Catalog
 
@@ -526,7 +526,7 @@ Major Reports
 
 # 👨‍💻 Author
 
-**Srujith Kandala**
+**Keerthan Kumar**
 
 Azure Data Engineer Project
 
