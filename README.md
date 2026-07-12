@@ -178,7 +178,7 @@ Logs/
 
 ---
 
-# 🔷 Batch Processing Flow
+#  Batch Processing Flow
 
 ```
 CSV Files
@@ -222,7 +222,7 @@ Microsoft Fabric Dashboard
 
 ---
 
-# ⚡ Streaming Pipeline
+#  Streaming Pipeline
 
 ```
 CSV Files
@@ -401,7 +401,7 @@ GOLD_REGION_KPI
 
 ---
 
-# 📊 Business KPIs
+#  Business KPIs
 
 - Total Loan Applications
 - Approved Loans
@@ -418,7 +418,7 @@ GOLD_REGION_KPI
 
 ---
 
-# ⭐ Star Schema
+#  Star Schema
 
 ### Fact Table
 
@@ -444,7 +444,7 @@ DIM_ECONOMIC_INDICATOR
 
 ---
 
-# 📈 Data Quality
+#  Data Quality
 
 The project performs
 
@@ -458,7 +458,7 @@ The project performs
 
 ---
 
-# ⚙ Delta Lake Features
+#  Delta Lake Features
 
 - ACID Transactions
 - Time Travel
@@ -471,7 +471,7 @@ The project performs
 
 ---
 
-# 📊 Dashboard
+#  Dashboard
 
 Dashboard is developed using
 
@@ -490,7 +490,7 @@ Major Reports
 
 ---
 
-# 🔒 Security & Governance
+#  Security & Governance
 
 - Unity Catalog
 - RBAC
@@ -502,7 +502,7 @@ Major Reports
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 - Unit Testing
 - Integration Testing
@@ -512,7 +512,7 @@ Major Reports
 - Business Rule Validation
 
 ---
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Real-Time Fraud Detection
 - Machine Learning Credit Scoring
@@ -524,7 +524,7 @@ Major Reports
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Keerthan Kumar**
 
