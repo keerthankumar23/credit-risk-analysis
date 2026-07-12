@@ -1,6 +1,6 @@
 # CREDIT_RISK_ANALYSIS
 
-# 🚀 Credit Risk Assessment Pipeline using Azure Data Factory, Azure Databricks & Microsoft Fabric
+# Credit Risk Assessment Pipeline using Azure Data Factory, Azure Databricks & Microsoft Fabric
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 ![Databricks](https://img.shields.io/badge/Databricks-Delta%20Lake-red)
@@ -10,7 +10,7 @@
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 This project implements an **Enterprise End-to-End Credit Risk Assessment Pipeline** using Microsoft Azure services following the **ELT (Extract, Load, Transform)** approach and **Medallion Architecture (Bronze → Silver → Gold)**.
 
@@ -54,7 +54,7 @@ The objective is to build a scalable platform that
 
 ---
 
-# 🏗 Solution Architecture
+# Solution Architecture
 
 ```
 Kaggle Credit Risk Dataset
@@ -86,7 +86,7 @@ Microsoft Fabric / Power BI
 
 ---
 
-# 📐 High Level Architecture
+#  High Level Architecture
 
 ```
 architecture/High_Level_Architecture.png
@@ -94,7 +94,7 @@ architecture/High_Level_Architecture.png
 
 ---
 
-# 🏛 Medallion Architecture
+# Medallion Architecture
 
 ```
 architecture/Medallion_Architecture.png
@@ -102,7 +102,7 @@ architecture/Medallion_Architecture.png
 
 ---
 
-# ⭐ Star Schema
+#  Star Schema
 
 ```
 architecture/Star_Schema.png
@@ -526,7 +526,7 @@ Major Reports
 
 # 👨‍💻 Author
 
-**Srujith Kandala**
+**Keerthan Kumar**
 
 Azure Data Engineer Project
 
